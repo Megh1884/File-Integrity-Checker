@@ -1,3 +1,15 @@
+*COMPANY*: CODTECHIT SOLUTIONS
+
+*NAME*: SHAH MEGH BHAVINKUMAR
+
+*INTERN ID*: CT04DL906
+
+*DOMAIN*: CYBERSECURITY AND ETHICAL HACKING
+
+*DURATION*: 1 MONTH
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
 # File Integrity Checker
 
 This project provides a simple command-line tool to check the integrity of files in a directory using SHA256 hashes.
@@ -20,8 +32,9 @@ This project provides a simple command-line tool to check the integrity of files
    Replace `test_files` with the path to the directory you want to scan.
 
 2. **Output:**
-   - Lists new, removed, and modified files.
-   - Updates `hash_database.json` with the latest hashes.
+   
+   ![Image](https://github.com/user-attachments/assets/12aa1c78-f5a2-4266-81e5-f122c58f32fc)
+
 
 ## Files
 
